@@ -1,4 +1,3 @@
-from xmlrpc.client import _HostType
 from django.shortcuts import render
 from django.http import HttpResponse
 
